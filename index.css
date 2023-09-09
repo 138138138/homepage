@@ -44,7 +44,7 @@ a:hover {
 }
 
 .links > a {
-  margin-right: 25px;
+  margin-right: 20px;
   margin-bottom: 5px;
 }
 
@@ -55,6 +55,8 @@ a:hover {
 .avatar {
   width: 150px;
   height: 150px;
+  min-width: 150px;
+  min-height: 150px;
   border-radius: 50%;
   border: 3px solid #ffffff;
 }
